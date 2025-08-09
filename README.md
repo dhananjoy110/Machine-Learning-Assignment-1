@@ -45,3 +45,26 @@ Train the Model – Runs for 5 epochs on the training dataset.
 Evaluate Performance – Prints test accuracy.
 
 Make Predictions – Predicts and visualizes sample outputs.
+
+
+ Example Output:
+
+Test Accuracy: ~97–98% (may vary depending on environment)
+
+Displays the first test image with predicted and actual labels.
+
+
+ Notes :
+ 
+The current model is simple and may be improved by adding convolutional layers (CNN) for higher accuracy.
+
+This code is beginner-friendly and ideal for learning TensorFlow basics.
+
+
+ Author :
+Dhananjoy Borgohain
+
+B.Tech in Computer Science & Engineering
+
+Barak Valley Engineering College
+
