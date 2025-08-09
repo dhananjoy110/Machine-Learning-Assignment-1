@@ -1,6 +1,7 @@
 # Machine-Learning-Assignment-1
 
 Handwritten Digit Recognition using TensorFlow (MNIST Dataset)
+
  Overview :
 This project demonstrates a simple neural network implementation using TensorFlow and Keras to recognize handwritten digits from the MNIST dataset.
 The model is trained on grayscale 28x28 pixel images of digits (0–9) and evaluated for accuracy on unseen test data.
